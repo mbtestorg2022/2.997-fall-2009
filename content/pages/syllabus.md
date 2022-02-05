@@ -25,17 +25,272 @@ Grade: Pass or fail (final confirmation on 2nd week)
 Course Calendar
 ---------------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | {{< h 3 >}}Introduction{{< /h >}} {{< br >}}{{< br >}} Review of 1st and 2nd law, statistical distribution {{< br >}}{{< br >}} Review of heat transfer {{< br >}}{{< br >}} Fourier law {{< br >}}{{< br >}} Newton's law of cooling {{< br >}}{{< br >}} Planck's blackbody radiation law, Stefan-Boltzmann law {{< br >}}{{< br >}}  |
-| 2 | {{< h 3 >}}Thermoelectric effect and thermoelectric devices{{< /h >}} {{< br >}}{{< br >}} Seebeck effect {{< br >}}{{< br >}} Peltier effect {{< br >}}{{< br >}} Thomson effect {{< br >}}{{< br >}} Thermoelectric figure of merit {{< br >}}{{< br >}} Applications {{< br >}}{{< br >}}  |
-| 3 | {{< h 3 >}}Energy states in matter{{< /h >}} {{< br >}}{{< br >}} Electron band structure {{< br >}}{{< br >}} Phonon spectrum of solids {{< br >}}{{< br >}} Density of states {{< br >}}{{< br >}} Carrier density {{< br >}}{{< br >}}  |
-| 4 | {{< h 3 >}}Kinetic formulation of thermoelectricity{{< /h >}} {{< br >}}{{< br >}} Coupled electron heat transport {{< br >}}{{< br >}} Electron engineering {{< br >}}{{< br >}} Phonon engineering {{< br >}}{{< br >}}  |
-| 5 | {{< h 3 >}}Current research on thermoelectric materials{{< /h >}} {{< br >}}{{< br >}} Classical thermoelectric materials {{< br >}}{{< br >}} Commercial materials: oxides, half-Heusler {{< br >}}{{< br >}} Nanostructures {{< br >}}{{< br >}} Complex materials {{< br >}}{{< br >}}  |
-| 6 | {{< h 3 >}}Thermionic power conversion{{< /h >}} {{< br >}}{{< br >}} Richardson formula {{< br >}}{{< br >}} Thermionic engines: vacuum, solid-state {{< br >}}{{< br >}} Schottky barrier and diode {{< br >}}{{< br >}} pn junction and diode {{< br >}}{{< br >}}  |
-| 7 | {{< h 3 >}}Photovoltaic cells{{< /h >}} {{< br >}}{{< br >}} Solid-state thermionics {{< br >}}{{< br >}} Solar cell basic principles {{< br >}}{{< br >}} Efficiency: maximization, limiting factors {{< br >}}{{< br >}} Types of PV cells, single junction and multi-junction {{< br >}}{{< br >}}  |
-| 8 | {{< h 3 >}}Radiative heat transfer{{< /h >}} {{< br >}}{{< br >}} Blackbody radiation {{< br >}}{{< br >}} Motion of the earth and sun {{< br >}}{{< br >}} Solar spectra: AM0, AM1, AM1.5, etc. {{< br >}}{{< br >}} Definition of radiative properties: emissivity, absorptivity, reflectivity, transmissivity {{< br >}}{{< br >}} Maximum efficiency, temperature of solar thermal engines {{< br >}}{{< br >}} Wavelength selective surfaces {{< br >}}{{< br >}}  |
-| 9 | {{< h 3 >}}Solar concentration and solar thermal technology{{< /h >}} {{< br >}}{{< br >}} Solar hot water systems {{< br >}}{{< br >}} Imaging and nonimaging optics {{< br >}}{{< br >}} Tracking and nontracking systems {{< br >}}{{< br >}} Methods for concentration: trough, tower, dish {{< br >}}{{< br >}} EM wave calculation of surface properties {{< br >}}{{< br >}} Solar thermoelectrics {{< br >}}{{< br >}}  |
-| 10 | {{< h 3 >}}Guest Lecture: Chris Schuh, "Nanostructured Materials: Stability Against Thermal Coarsening."{{< /h >}} |
-| 11 | {{< h 3 >}}Guest Lecture: Ivan Čelanović, "Photonic Crystals: Shaping the Flow of Thermal Radiation."{{< /h >}} {{< br >}}{{< br >}} Thermophotovoltaic power generation {{< br >}}{{< br >}} Photonic crystal design {{< br >}}{{< br >}} Electronic and photonic bandgap properties {{< br >}}{{< br >}} PV module design challenges {{< br >}}{{< br >}}  |
-| 12 | {{< h 3 >}}Applications of thermoelectrics and photovoltaics{{< /h >}} {{< br >}}{{< br >}} Solar thermovoltaics {{< br >}}{{< br >}} Selective surfaces {{< br >}}{{< br >}} Solar thermophotonics {{< br >}}{{< br >}} Solar thermoelectrics {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Introduction
+
+Review of 1st and 2nd law, statistical distribution
+
+Review of heat transfer
+
+Fourier law
+
+Newton's law of cooling
+
+Planck's blackbody radiation law, Stefan-Boltzmann law
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Thermoelectric effect and thermoelectric devices
+
+Seebeck effect
+
+Peltier effect
+
+Thomson effect
+
+Thermoelectric figure of merit
+
+Applications
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Energy states in matter
+
+Electron band structure
+
+Phonon spectrum of solids
+
+Density of states
+
+Carrier density
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Kinetic formulation of thermoelectricity
+
+Coupled electron heat transport
+
+Electron engineering
+
+Phonon engineering
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Current research on thermoelectric materials
+
+Classical thermoelectric materials
+
+Commercial materials: oxides, half-Heusler
+
+Nanostructures
+
+Complex materials
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Thermionic power conversion
+
+Richardson formula
+
+Thermionic engines: vacuum, solid-state
+
+Schottky barrier and diode
+
+pn junction and diode
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Photovoltaic cells
+
+Solid-state thermionics
+
+Solar cell basic principles
+
+Efficiency: maximization, limiting factors
+
+Types of PV cells, single junction and multi-junction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Radiative heat transfer
+
+Blackbody radiation
+
+Motion of the earth and sun
+
+Solar spectra: AM0, AM1, AM1.5, etc.
+
+Definition of radiative properties: emissivity, absorptivity, reflectivity, transmissivity
+
+Maximum efficiency, temperature of solar thermal engines
+
+Wavelength selective surfaces
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Solar concentration and solar thermal technology
+
+Solar hot water systems
+
+Imaging and nonimaging optics
+
+Tracking and nontracking systems
+
+Methods for concentration: trough, tower, dish
+
+EM wave calculation of surface properties
+
+Solar thermoelectrics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Guest Lecture: Chris Schuh, "Nanostructured Materials: Stability Against Thermal Coarsening."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Guest Lecture: Ivan Čelanović, "Photonic Crystals: Shaping the Flow of Thermal Radiation."
+
+Thermophotovoltaic power generation
+
+Photonic crystal design
+
+Electronic and photonic bandgap properties
+
+PV module design challenges
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Applications of thermoelectrics and photovoltaics
+
+Solar thermovoltaics
+
+Selective surfaces
+
+Solar thermophotonics
+
+Solar thermoelectrics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
